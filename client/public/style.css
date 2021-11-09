@@ -1,0 +1,6 @@
+.cross_on {
+	transform: scaleX(1);
+}
+.cross_off {
+	transform: scaleX(0);
+}
